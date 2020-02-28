@@ -1,4 +1,4 @@
-# My Pet Project need just learn Redux like stores
+# My Pet Project need just learn Store like Redux
 I want to know how to work "redux" and I created "Path Store" for deep dive to Store mechanism.
 
 ## Little about project
